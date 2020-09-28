@@ -1,3 +1,3 @@
-<meta http-equiv = "refresh" content = "3; url = https://ajsya.github.io/CoR-Countdown" />
+<meta http-equiv = "refresh" content = "5; url = https://ajsya.github.io/CoR-Countdown" />
 # Redirecting...
-This page has been moved to [https://ajsya.github.io/CoR-Countdown](https://ajsya.github.io/CoR-Countdown)please use this page in the future. You will be redirected automaticly in 3 seconds.
+This page has been moved to [https://ajsya.github.io/CoR-Countdown](https://ajsya.github.io/CoR-Countdown) please use this page in the future. You will be redirected automaticly in 5 seconds.
