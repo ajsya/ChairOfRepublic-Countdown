@@ -1,2 +1,4 @@
 # ChairOfRepublic-Countdown
-The Chair of Republic 2 year countdown has been moved to /CoR-Countdown
+A countdown for the Chair of Republic's Birthday
+
+If you would like to contribute please contact @ajsya
